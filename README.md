@@ -15,4 +15,4 @@ python3 -m pip install -r requirements.txt
 
       -h, --help     show this help
       source         source directory
-      encodage       file type to convert to (mp3 by default)
+      encodage       file type to convert to (optional, mp3 by default)
