@@ -11,7 +11,7 @@ python3 -m pip install -r requirements.txt
 
 ## Usage :
     
-    python3 main.py§ [source, -h] encodage
+    python3 main.py [source, -h] encodage
 
       -h, --help     show this help
       source         source directory
